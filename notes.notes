@@ -1,0 +1,37 @@
+Osmismerka:
+
+hledani slov v matici znaku, je potrebs hledat horizontalne, diagonalne a vertikalne. 
+
+znaky ktere zustanouy tak utvori tajenku
+
+udelat ji jako standalone? 
+
+test data:
+https://wordsearch.relaxpuzzles.com
+
+
+TODO:
+[√] umožnit zadání matice znaků reprezentující vlastní osmisměrku
+[√] umožnit zadání hledaných slov
+[√] po zadání správných slov zobrazit tajenku
+[√] ukaz pismena tajenky na hover
+[√] ngIf osmismerka nebo input vlastni 
+[√] vyhezkat
+[√] uživatelské rozhraní zvolte dle uvážení a svých schopností s ohledem na komfort uživatele
+
+
+
+DATA:
+
+SCONPAPERS
+NEUHOSTELW
+UCNSOFFERA
+TAASTLMDTR
+RLNEEOSEIN
+IPAXEOMSDI
+TEPPRKIEEN
+IRKETCLRRG
+OIIRSUETCA
+NFNTKCIRBP
+
+BRICK CREDIT CUCKOO CUSTOMER DESERT EXPERT FIREPLACE HOSTEL NAPKIN NUTRITION OFFER PAPERS REFLEX SENSE SMILE STREET WARNING
